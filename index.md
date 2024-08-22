@@ -1,5 +1,3 @@
-# ACL 2024 Missing Papers
-
 * [[arXiv](https://arxiv.org/abs/2310.05060)] DeVAn: Dense Video Annotation for Video-Language Models 
 
 * [[arXiv](https://arxiv.org/abs/2401.06373)] How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs 
