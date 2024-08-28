@@ -1,3 +1,9 @@
+Update - Aug 27, 2024:</br>
+<span style="color:red">**The missing long and short papers are now available in the Anthology. 🎉**</span>.
+https://aclanthology.org/events/acl-2024/
+
+---
+
 * [[arXiv](https://arxiv.org/abs/2310.05060)] DeVAn: Dense Video Annotation for Video-Language Models 
 
 * [[arXiv](https://arxiv.org/abs/2401.06373)] How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs 
