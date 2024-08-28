@@ -4,7 +4,7 @@
 Aug 27, 2024:
 <span style="color:red">**The missing papers are now available in the**</span> **[Anthology](https://aclanthology.org/events/acl-2024/).** 🎉
 
-Aug 22, 2024: The following list of missing papers has been compiled.
+Aug 22, 2024: The following list of the missing papers has been compiled.
 
 Aug 20, 2024: ACL noticed that there are more than 100 accepted papers are missing from the proceedings ([Announced on X](https://x.com/aclanthology/status/1825855384646566200)).
 
