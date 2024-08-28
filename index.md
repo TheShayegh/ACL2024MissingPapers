@@ -1,4 +1,4 @@
-News
+### News
 ---
 
 Aug 27, 2024:
@@ -11,7 +11,8 @@ Aug 20, 2024: ACL noticed that there are more than 100 accepted papers are missi
 Aug 12, 2024: The proceedings of the 62nd annual meeting of the Association for Computational Linguistics, as well as Findings: ACL and associated workshops, are now available [online](https://t.co/tSwIzPZKLO).
 
 ---
-List of the missing papers
+
+### List of the missing papers
 ---
 
 * [[arXiv](https://arxiv.org/abs/2310.05060)] DeVAn: Dense Video Annotation for Video-Language Models 
