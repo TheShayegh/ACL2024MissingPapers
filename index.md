@@ -1,6 +1,6 @@
-Update - Aug 27, 2024:</br>
-<span style="color:red">**The missing long and short papers are now available in the Anthology. 🎉**</span>.
-https://aclanthology.org/events/acl-2024/
+Update - Aug 27, 2024:
+<span style="color:red">**The missing long and short papers are now available in the**</span> **[Anthology](https://aclanthology.org/events/acl-2024/).** 🎉
+
 
 ---
 
