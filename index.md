@@ -2,7 +2,7 @@ News
 ---
 
 Aug 27, 2024:
-<span style="color:red">**The missing long and short papers are now available in the**</span> **[Anthology](https://aclanthology.org/events/acl-2024/).** 🎉
+<span style="color:red">**The missing papers are now available in the**</span> **[Anthology](https://aclanthology.org/events/acl-2024/).** 🎉
 
 Aug 22, 2024: The following list of missing papers has been compiled.
 
