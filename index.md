@@ -1,6 +1,8 @@
 ### News
 ---
 
+Jan 22, 2025: The papers' landing pages now appear to be missing from the anthology (unknown for how long; the pdfs are still there).
+
 Aug 27, 2024:
 <span style="color:red">**The missing papers are now available in the**</span> **[Anthology](https://aclanthology.org/events/acl-2024/).** 🎉
 
